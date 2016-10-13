@@ -1,4 +1,4 @@
-
+#MEET 1 Sistem Informasi Geografis
 GIS is a computer-based system used to store and process geographic information that can combine the graphics data with text data (attribute) object linked geographically in earth systems (GIS) So that GIS has the ability to connect a variety of data at any given point on earth , combine, analyze and finally map the results. The data will be processed in the GIS is the data spasial.Sebuah oriented data and the geographic locations that have a specific coordinate system, as a basic reference.
 Geographic coordinate system is a system that is used to indicate a point on the Earth by latitude and longitude.
 Latitude that is a vertical line that measures the angle between a point to the equator. Point in the north of the equator is called North latitude, abbreviated as LU while a point south of the equator is called South latitude, abbreviated LS. 
