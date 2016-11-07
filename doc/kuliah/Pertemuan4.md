@@ -1,0 +1,5 @@
+So we will take the ESRI shapefile vector geospatial data. As we know shapefile divided into 2dbf and shp.dbf is table data attributes. Shp is the geometry data. Where the geometry data from ESRI standard geeometri namely Point, Poliline, Polygon. That point is in the form of points, poliline is a line and polygon is in the form of the area is the meeting between the starting point to the end point, it can be said jugabahwa polygon is the starting point = end point.
+ Well it is a vector geospatial data or standard shapefile ESRI.Operasi in python, the python kit mengenalada pyshp library, from the library pyshp we call by way of import shapefiles. Istansiasi class shapefile to a variable sf = shapefile.Reader ( 'bts.negara.shp). sf is istansiasi, shapefile is a class, Reader is a method, ( 'bts.negara.shp) is fileshp parameter. So here is istansi variable sf of class shapefile, we can run the method in the variable sf. Suppose we use the agency sf then divided into two, namely that method and shp dbf. Method dbf if we make use sf agencies that can use data attributes
+ Nama : Fitriani M
+ NPM  : 1144001
+ Kelas  : D4 Teknik Informatika 3D
